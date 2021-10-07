@@ -31,4 +31,4 @@ You need to identify the best possible model that will give the required perform
 
 Submission Guidelines - There are two parts to the submission: 
 	1. A well commented Jupyter notebook [format - .html]
-	2. Using the template provide, create a PowerPoint business presentation as you would present to management/business leaders [format - .pdf]
+	2. Using the PowerPoint template provided, create a business presentation as you would present to management/business leaders [format - .pdf]
