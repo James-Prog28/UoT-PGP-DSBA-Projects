@@ -1,8 +1,10 @@
 # UoT-PGP-DSBA-Projects
 
-UoT Course Project Completed by James
+UoT Course Projects Completed by James
 
-COURSE PROJECTS
+LIST OF UoT COURSE PROJECTS
+
+----
 
 Sep'21
 AllLifeBank Customer Segmentation
