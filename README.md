@@ -28,3 +28,7 @@ Customers’ leaving credit cards services would lead bank to loss, so the bank 
 You as a Data scientist at Thera bank need to come up with a classification model that will help the bank improve its services so that customers do not renounce their credit cards
 
 You need to identify the best possible model that will give the required performance
+
+Submission Guidelines - There are two parts to the submission: 
+	1. A well commented Jupyter notebook [format - .html]
+	2. Using the template provide, create a PowerPoint business presentation as you would present to management/business leaders [format - .pdf]
