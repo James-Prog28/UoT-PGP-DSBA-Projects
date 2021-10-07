@@ -2,7 +2,6 @@
 
 UoT Course Project Completed by James
 
-
 COURSE PROJECTS
 
 Sep'21
@@ -16,6 +15,8 @@ Skills and Tools
 
 EDA - univariate and bivariate analysis, Kmeans Clustering, Hierarchical Clustering
 
+----
+
 Aug'21
 CreditCard users churn prediction
 
@@ -26,6 +27,8 @@ A bank sees decline in the number of customers using their credit cards, so bank
 Skills and Tools
 
 EDA - univariate and bivariate analysis, up and downsampling, regularization, model building, hyperparameter tuning
+
+----
 
 Aug'21
 Travel Package Purchase Prediction
@@ -38,6 +41,8 @@ Skills and Tools
 
 EDA - univariate and bivariate analysis, Data Preprocessing, Model Building, Customer Profiling, Bagging Classifiers - Bagging and Random Forest, Boosting Classifier - AdaBoost, Gradient Boosting and XGBoost, Stacking Classifier, Hyperparameter Tuning using GridSearchCV and Business Recommendations
 
+----
+
 Jul'21
 AllLifeBank Personal Loan Campaign Modelling
 
@@ -48,6 +53,8 @@ AllLifeBank dataset was used to build a model that will help the marketing depar
 Skills and Tools
 
 EDA - univariate and bivariate analysis, Model Building, Logistic regression, multicollinearity, finding optimal threshold using AUC-ROC curve, Decision trees, pruning
+
+----
 
 Jun'21
 Cars4U Project
@@ -60,6 +67,8 @@ Skills and Tools
 
 EDA - univariate and bivariate analysis, Model Building, Linear regression, Linear regression assumptions, business insights and suggestions
 
+----
+
 May'21
 E-news Express Project
 
@@ -70,6 +79,8 @@ This project used statistical analysis, a/b testing, and visualization to decide
 Skills and Tools
 
 EDA - univariate and bivariate analysis, Hypothesis Testing, a/b testing, Data Visualization, Statistical Inference
+
+----
 
 May'21
 Cardio Fitness Product Analysis using Python
